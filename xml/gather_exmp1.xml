@@ -1,0 +1,3 @@
+<Gather input="speech" model="nova-2-general" numDigits="1" action="http://myhost.com/app/stashvmail.php">
+<Say voice="female">Hello, thanks for calling, leave a message now</Say>
+</Gather>
