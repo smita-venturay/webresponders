@@ -1,5 +1,3 @@
 <Response>
 <Play>Welcome to NetSapiens</Play>
-<Gather numDigits="1" action="ivr.php">
-</Gather>
 </Response>
