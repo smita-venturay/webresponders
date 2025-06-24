@@ -2,4 +2,7 @@
 <Say>Hold on, we are connecting your call.</Say>
 <Wait timeout="5"/>
 <Say>Thank you for waiting.</Say>
+ <Forward>  
+4001@Ksmita  
+ </Forward>
 </Response>
