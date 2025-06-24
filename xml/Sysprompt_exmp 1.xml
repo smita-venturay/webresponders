@@ -1,7 +1,9 @@
 <Response>
-<Play>Welcome to Crexendo Technologies</Play>
+<Play>Welcome to NetSapiens</Play>
 <Gather numDigits="1" action="ivr.php">
-<Say voice="female">Enter 1 or say sales to connect to sales, enter 2 or say support to connect to tech support, Dial an 4 digit extension number to forward the call, enter 3 or say directory to connect to company directory</Say>
+<Say voice="female">Enter 1 or say agent to connect to agent, enter 2 or say support to connect to tech support, </Say>
+</Gather>
 <Gather numDigits='5' action='forward-offnet-2.php'>
+    <Say>Dial any onnet number.</Say>
 </Gather>
 </Response>
