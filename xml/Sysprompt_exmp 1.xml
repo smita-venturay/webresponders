@@ -1,8 +1,8 @@
 <Response>
 <Say>Hold on, we are connecting your call.</Say>
+<Say>Dial any onnet number.</Say>
+<Gather numDigits='5' action='forward-offnet-2.php'>
+</Gather>
 <Wait timeout="5"/>
 <Say>Thank you for waiting.</Say>
-<Gather numDigits='5' action='forward-offnet-2.php'>
-<Say>Dial any onnet number.</Say>
-</Gather>
 </Response>
