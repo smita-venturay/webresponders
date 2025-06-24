@@ -2,8 +2,7 @@
 <Play>Welcome to NetSapiens</Play>
 <Gather numDigits="1" action="ivr.php">
 <Say voice="female">Enter 1 or say agent to connect to agent, enter 2 or say support to connect to tech support, </Say>
-</Gather>
 <Gather numDigits='5' action='forward-offnet-2.php'>
-    <Say>Dial any onnet number.</Say>
+<Say>Dial any onnet number.</Say>
 </Gather>
 </Response>
