@@ -1,0 +1,6 @@
+<Response>
+<Play>Welcome to Crexendo Technologies</Play>
+<Gather numDigits="1" action="ivr.php">
+<Say voice="female">Enter 1 or say sales to connect to sales, enter 2 or say support to connect to support</Say>
+</Gather>
+</Response>
