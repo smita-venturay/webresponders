@@ -1,6 +1,5 @@
 <Response>
 <Play>Welcome to NetSapiens</Play>
 <Gather numDigits="1" action="ivr.php">
-<Say voice="female">Enter 1 to connect to agent, enter 2 to connect to tech support, enter any onnet number to connect to a user</Say>
 </Gather>
 </Response>
