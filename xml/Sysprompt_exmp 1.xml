@@ -1,7 +1,7 @@
 <Response>
 <Say>Hold on, we are connecting your call.</Say>
 <Say>Dial any onnet number.</Say>
-<Gather numDigits='4' action='forward-offnet-2.php'>
+<Gather numDigits='4'action='forward-offnet-2.php'>
 </Gather>
 <Say>Thank you for calling us.</Say>
 </Response>
