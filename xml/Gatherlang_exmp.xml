@@ -1,0 +1,7 @@
+ <Gather input='dtmf speech' action='process_action.php’>  
+  <Say language=‘en-US’ voice=‘amy’>  
+  Hi, how can I help you today?  
+  <Say language=‘fr-CA’ voice=‘amy’>
+  Hello, this prompt is in Canada French
+  </Say>  
+ </Gather>
