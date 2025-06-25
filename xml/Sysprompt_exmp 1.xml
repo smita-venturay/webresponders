@@ -1,6 +1,7 @@
 <Response>
 <Say>Hold on, we are connecting your call.</Say>
 <Say>Dialling an onnet number.</Say>
-<Forward>(sip:4001@Ksmita)</Forward>
+<Forward>(sip:By6001@Ksmita)(Forward)        
+<Forward>(sip:to4001@Ksmita)</Forward>
 <Say>Thank you for calling us.</Say>
 </Response>
