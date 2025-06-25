@@ -1,6 +1,6 @@
 <Response>
 <Say>Hold on, we are connecting your call.</Say>
 <Say>Dialling an onnet number.</Say>
-<Forward>(sip:to4001@Ksmita)</Forward>
+https://core1-phx.qa-netsapiens.com/webresponder/forward-onnet-1.xml
 <Say>Thank you for calling us.</Say>
 </Response>
