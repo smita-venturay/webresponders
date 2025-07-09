@@ -1,0 +1,3 @@
+<Gather numDigits="5" action="Forward>sip:1099@SpringSK.com</Forward">
+<Say>Dial any onnet number.</Say>
+</Gather>
